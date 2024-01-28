@@ -1,0 +1,5 @@
+﻿
+//Hesap oluştur
+//Para çekme ve para çekme işlemleri yapcak 
+//işlemler transaction işlemleri olcak 
+//balance , hesap bakiyesi 

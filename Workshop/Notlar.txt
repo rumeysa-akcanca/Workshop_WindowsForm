@@ -1,0 +1,23 @@
+﻿
+OOP Object Orientend Programming
+
+Class (Sınıf) . nesne oluşturmak için hazırlanmış olan bir plan yeni bir taslaktır.
+Object (Nesne) : sınıftan türemiş  olan kendine özgü nitelik ve eylemleri olabilen yapılardır.
+
+Neden oop :
+1. Kodları tek seferde yazarak sürekli olarak kullanabiliriz.Kod maliyetini düşürür.
+2. Kod blokları ile ilgili hatalar aldığımızda bunları merkezi tek bir yerden çözebiliriz.
+3. Bilgi gizliliği sağlar.
+4. Belirli bir kodlama standardı getirmemizi sağlar.
+
+Encapsulation :(kapsülleme)
+Bilgileri dışarıya kapatıyoruz. Private public protected olarak belirlemek
+Bir sınıfın içindeki verileri ve bu verilere erişim yollarını kontrol altına alma konseptidir. Bu , sınıfın iç detaylarını dış dünyaya karşı gizlemek
+ve sınıfın güvenli ve tutarlı bir şekilde kullanılmasını sağlamaya yarar .
+
+Constructor : classtan nesne türetirken çalışır. Bu durumda nesne türetilirken istediğimiz özellikleri burada belirtebiliriz .
+
+Abstract : soyut sınıf. Diğer sınıflar için temel bir şablondur. Genellikle soyut yöntemleri içerir.
+Abstract class'ın instance ' alınamaz. Kalıtım olarak verilebilir. Methodları kalıtım alarak kullanabiliriz. İçinde soyut olmayan metotlar da vardır.
+yapılar bulunabilir. abstract elemanlar private olamaz.
+İnterface de property koyabiliriz.
